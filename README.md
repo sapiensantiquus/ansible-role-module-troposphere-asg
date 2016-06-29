@@ -1,0 +1,1 @@
+# ansible-role-module-troposphere-asg
